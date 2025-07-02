@@ -30,5 +30,5 @@ while need_help == 'yes':
         print('Invalid input. Please try again.')
     
     
-else:
-   print ('Thank you for playing!')
+
+print ('Thank you for playing!')
